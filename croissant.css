@@ -1,5 +1,5 @@
 .p1{
-    font-family: "cocogoose";
+    font-family: "Urbanist";
     font-size: 20px;
     font-weight: 500;
     margin-top: 20px;
@@ -11,7 +11,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "cocogoose";
+    font-family: "Urbanist";
 }
 .coo1 {
   color: #6b2b22;
@@ -51,7 +51,7 @@
 }
 header {
   width: 100%;
-  font-family: "cocogoose";
+  font-family: "Urbanist";
 }
 .capa {
   display: flex;
@@ -127,7 +127,7 @@ header {
   font-size: 40px;
   color: #9d2f31;
   margin-bottom: 40px;
-  font-family: "cocogoose";
+  font-family: "Urbanist";
 }
 body {
     display: flex;
@@ -296,7 +296,7 @@ h2 {
     transition: transform 0.4s ease;
 }
 .text2 {
-    font-family: "cocogoose";
+    font-family: "Urbanist";
     margin-left: -230px;
     margin-top: -20px;
     margin-right: 950px;
@@ -308,7 +308,7 @@ h2 {
     width: 100px;
     height: 45px;
     border-radius: 30px;
-    font-family: "cocogoose";
+    font-family: "Urbanist";
     border: 0;
     color: rgb(235, 180, 136);
     transition: all 0.8s ease-in;
@@ -321,7 +321,7 @@ h2 {
 .c2 {
     font-size: 55px;
     margin-bottom: 0;
-    font-family: "cocogoose";
+    font-family: "Urbanist";
 }
 .coo2 {
     margin-top: 0;
@@ -407,7 +407,7 @@ h2 {
     transition: transform 0.4s ease;
 }
 .text4 {
-    font-family: "cocogoose";
+    font-family: "Urbanist";
     margin-left: -230px;
     margin-top: -20px;
     margin-right: 950px;
@@ -419,7 +419,7 @@ h2 {
     width: 100px;
     height: 45px;
     border-radius: 30px;
-    font-family: "cocogoose";
+    font-family: "Urbanist";
     border: 0;
     color: rgb(235, 180, 136);
     transition: all 0.8s ease-in;
@@ -432,7 +432,7 @@ h2 {
 .c4 {
     font-size: 55px;
     margin-bottom: 0;
-    font-family: "cocogoose";
+    font-family: "Urbanist";
 }
 .coo4 {
     margin-top: 0;

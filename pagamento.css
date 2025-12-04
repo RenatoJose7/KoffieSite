@@ -70,7 +70,7 @@
 }
 
 
-/*  */
+
 *{
     margin: 0;
     padding: 0;
@@ -78,7 +78,7 @@
 }
 header {
   width: 100%;
-  font-family: "cocogoose";
+  font-family: "Urbanist";
   
 }
 
@@ -162,7 +162,7 @@ header {
   font-size: 40px;
   color: #9d2f31;
   margin-bottom: 40px;
-  font-family: "cocogoose";
+  font-family: "Urbanist";
 }
 
 @font-face {
@@ -174,7 +174,7 @@ header {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "cocogooseGROSSA";
+  font-family: "Urbanist";
 }
 
 body {
@@ -276,7 +276,7 @@ h1 {
     color: #6b2b22;
     text-align: center;
     margin-top: 15px;
-    font-family: "cocogooseFINA";
+    font-family: "Urbanist";
   }
 
 footer {

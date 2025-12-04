@@ -56,13 +56,13 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "cocogooseGROSSA";
+  font-family: "Urbanist";
 }
 
 
 body {
   margin: 0;
-  font-family: "cocogooseGROSSA", sans-serif;
+  font-family: "Urbanist", sans-serif;
   background-color: rgb(255, 255, 255);
 }
 
@@ -157,7 +157,7 @@ header {
   font-size: 40px;
   color: #643328;
   margin-bottom: 40px;
-  font-family:"cocogooseGROSSA";
+  font-family:"Urbanist";
 }
 
 
@@ -169,7 +169,7 @@ header {
 }
 
 body {
-    font-family: 'Cocogoose', sans-serif;
+    font-family: 'Urbanist', sans-serif;
     background: #fefaf8;
     color: #6b2b22;
     display: flex;

@@ -1,7 +1,7 @@
-/* FONTES */
+
 
 .p1{
-    font-family: "cocogoose";
+    font-family: "Urbanist";
     font-size: 20px;
     font-weight: 500;
     margin-top: 20px;
@@ -14,7 +14,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "cocogoose";
+    font-family: "Urbanist";
 }
 
 .coo1 {
@@ -59,7 +59,7 @@
 
 header {
   width: 100%;
-  font-family: "cocogoose";
+  font-family: "Urbanist";
 }
 
 .capa {
@@ -98,6 +98,7 @@ header {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
+  font-weight: 700;
   width: 70%;
 }
 .nave {
@@ -141,7 +142,7 @@ header {
   font-size: 40px;
   color: #9d2f31;
   margin-bottom: 40px;
-  font-family: "cocogoose";
+  font-family: "Urbanist";
 }
 
 
@@ -166,12 +167,11 @@ h2 {
 .bann {
     width: 100%;
 }
-/* -------------------------- COOKIE -> BROWNIE 1 ------------------------------------ */
 
 .teste {
     margin-bottom: 350px;
-    background-size: cover;     /* faz a imagem cobrir todo o card */
-    background-position: center; /* centraliza a imagem */
+    background-size: cover;     
+    background-position: center; 
     background-repeat: no-repeat;
     margin-top: 0;
 
@@ -185,15 +185,15 @@ h2 {
     background-repeat: no-repeat;
 
     width: 100%;
-    height: 700px; /* ajuste até ficar perfeito */
+    height: 700px; 
     
-    position: relative; /* IMPORTANTE */
+    position: relative; 
     z-index: 1;
 }
 
 .teste {
     position: relative;
-    z-index: 2; /* fica acima do fundo */
+    z-index: 2; 
 }
 
 .suco1 {
@@ -236,7 +236,7 @@ h2 {
 
 .compra1 {
   color: #fff5e8;
-  font-family: "cocogoose";
+  font-family: "Urbanist";
   width: 150px;
   border-radius: 30px;
   border: #9d2f31;
@@ -270,8 +270,8 @@ h2 {
 -----------------------------------------------------
 .teste {
     margin-bottom: 350px;
-    background-size: cover;     /* faz a imagem cobrir todo o card */
-    background-position: center; /* centraliza a imagem */
+    background-size: cover;     
+    background-position: center; 
     background-repeat: no-repeat;
     margin-top: 0;
 
@@ -285,15 +285,15 @@ h2 {
     background-repeat: no-repeat;
 
     width: 100%;
-    height: 700px; /* ajuste até ficar perfeito */
+    height: 700px; 
     
-    position: relative; /* IMPORTANTE */
+    position: relative; 
     z-index: 1;
 }
 
 .teste {
     position: relative;
-    z-index: 2; /* fica acima do fundo */
+    z-index: 2; 
 }
 
 .suco2 {
@@ -327,7 +327,7 @@ h2 {
 }
 
 .text2 {
-    font-family: "cocogoose";
+    font-family: "Urbanist";
     margin-left: -230px;
     margin-top: -20px;
     margin-right: 950px;
@@ -340,7 +340,7 @@ h2 {
     width: 100px;
     height: 45px;
     border-radius: 30px;
-    font-family: "cocogoose";
+    font-family: "Urbanist";
     border: 0;
     color: rgb(235, 180, 136);
     transition: all 0.8s ease-in;
@@ -356,19 +356,19 @@ h2 {
 .c2 {
     font-size: 55px;
     margin-bottom: 0;
-    font-family: "cocogoose";
+    font-family: "Urbanist";
 }
 
 .coo2 {
     margin-top: 0;
     margin-bottom: 0;
 }
-----------------------------------------------------
+
 
 .teste {
     margin-bottom: 350px;
-    background-size: cover;     /* faz a imagem cobrir todo o card */
-    background-position: center; /* centraliza a imagem */
+    background-size: cover;     
+    background-position: center; 
     background-repeat: no-repeat;
     margin-top: 0;
 
@@ -382,15 +382,15 @@ h2 {
     background-repeat: no-repeat;
 
     width: 100%;
-    height: 700px; /* ajuste até ficar perfeito */
+    height: 700px; 
     
-    position: relative; /* IMPORTANTE */
+    position: relative;
     z-index: 1;
 }
 
 .teste {
     position: relative;
-    z-index: 2; /* fica acima do fundo */
+    z-index: 2; 
 }
 
 .suco3 {
@@ -460,10 +460,10 @@ h2 {
     margin-bottom: 0;
 }
 
---------------------------------------------------
+
 .teste {
     margin-bottom: 350px;
-    background-size: cover;     /* faz a imagem cobrir todo o card */
+    background-size: cover;     
     background-position: center; /* centraliza a imagem */
     background-repeat: no-repeat;
     margin-top: 0;
@@ -478,15 +478,15 @@ h2 {
     background-repeat: no-repeat;
 
     width: 100%;
-    height: 700px; /* ajuste até ficar perfeito */
+    height: 700px; 
     
-    position: relative; /* IMPORTANTE */
+    position: relative; 
     z-index: 1;
 }
 
 .teste {
     position: relative;
-    z-index: 2; /* fica acima do fundo */
+    z-index: 2; 
 }
 
 .suco4 {
@@ -520,7 +520,7 @@ h2 {
 }
 
 .text4 {
-    font-family: "cocogoose";
+    font-family: "Urbanist";
     margin-left: -230px;
     margin-top: -20px;
     margin-right: 950px;
@@ -533,7 +533,7 @@ h2 {
     width: 100px;
     height: 45px;
     border-radius: 30px;
-    font-family: "cocogoose";
+    font-family: "Urbanist";
     border: 0;
     color: rgb(235, 180, 136);
     transition: all 0.8s ease-in;
@@ -549,7 +549,7 @@ h2 {
 .c4 {
     font-size: 55px;
     margin-bottom: 0;
-    font-family: "cocogoose";
+    font-family: "Urbanist";
 }
 
 .coo4 {
@@ -557,12 +557,12 @@ h2 {
     margin-bottom: 0;
 }
 
----------------------------------
+
 
 .teste {
     margin-bottom: 350px;
-    background-size: cover;     /* faz a imagem cobrir todo o card */
-    background-position: center; /* centraliza a imagem */
+    background-size: cover;     
+    background-position: center; 
     background-repeat: no-repeat;
     margin-top: 0;
 }
@@ -575,15 +575,15 @@ h2 {
     background-repeat: no-repeat;
 
     width: 100%;
-    height: 700px; /* ajuste até ficar perfeito */
+    height: 700px; 
     
-    position: relative; /* IMPORTANTE */
+    position: relative; 
     z-index: 1;
 }
 
 .teste {
     position: relative;
-    z-index: 2; /* fica acima do fundo */
+    z-index: 2; 
 }
 
 .suco5 {
@@ -649,7 +649,7 @@ h2 {
     margin-bottom: 0;
 }
 
------------------------------------------
+
 
 .teste {
     margin-bottom: 350px;
@@ -707,7 +707,7 @@ h2 {
 }
 
 .text6 {
-    font-family: "cocogoose";
+    font-family: "Urbanist";
     margin-left: -230px;
     margin-top: -20px;
     margin-right: 950px;
@@ -720,7 +720,7 @@ h2 {
     width: 100px;
     height: 45px;
     border-radius: 30px;
-    font-family: "cocogoose";
+    font-family: "Urbanist";
     border: 0;
     color: rgb(235, 180, 136);
     transition: all 0.8s ease-in;
@@ -735,7 +735,7 @@ h2 {
 .c6 {
     font-size: 55px;
     margin-bottom: 0;
-    font-family: "cocogoose";
+    font-family: "Urbanist";
 }
 
 .coo6 {
@@ -744,7 +744,7 @@ h2 {
 }
 
 
---------------------------------------
+
 footer {
   width: 100%;
   background: #af3d3d;

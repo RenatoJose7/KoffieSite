@@ -57,7 +57,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "cocogoose", sans-serif;
+  font-family: "Urbanist", sans-serif;
 }
 
 body {
@@ -116,6 +116,7 @@ header {
   justify-content: space-evenly;
   align-items: center;
   width: 70%;
+  font-weight: 700;
 }
 .nave {
   position: relative;
@@ -123,7 +124,7 @@ header {
   font-size: 28px;
   color: #ffffff;
   transition: color 0.4s ease, transform 0.3s ease;
-  font-family: "cocogooseGROSSA";
+  font-family: "Urbanist";
 }
 .nave:hover {
   color: #fff;
@@ -159,7 +160,7 @@ header {
   font-size: 40px;
   color: #9d2f31;
   margin-bottom: 40px;
-  font-family: "cocogooseGROSSA";
+  font-family: "Urbanist";
 }
 
 .carrossel {
@@ -253,7 +254,7 @@ header {
 }
 
 .descricao{
-  font-family: "cocogoose";
+  font-family: "Urbanist";
   font-size: 80px;
 }
 .descricao1{
