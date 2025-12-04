@@ -52,6 +52,8 @@
   src: url(font/bear_days/Bear\ Days.otf);
 }
 
+
+
 * {
   margin: 0;
   padding: 0;
@@ -62,7 +64,7 @@
 
 body {
   margin: 0;
-  font-family: "cocogooseGROSSA", sans-serif;
+  font-family: "Roboto", sans-serif;
   background-color: rgb(255, 255, 255);
 }
 
