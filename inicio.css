@@ -58,13 +58,15 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "cocogooseGROSSA";
+  font-family: "Urbanist";
 }
 
 
 body {
   margin: 0;
-  font-family: "Roboto", sans-serif;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 700;
+  letter-spacing: 1px;
   background-color: rgb(255, 255, 255);
 }
 
@@ -161,7 +163,7 @@ header {
   font-size: 40px;
   color: #9d2f31;
   margin-bottom: 40px;
-  font-family:"cocogooseGROSSA";
+  font-family:"Urbanist";
 }
 
 
@@ -230,7 +232,7 @@ a {
   color: rgb(177, 110, 51);
 }
 .bbutton {
-  font-family: "cocogooseFINA";
+  font-family: "Urbanist";
   width: 150px;
   border-radius: 30px;
   border: #9d2f31;
@@ -256,14 +258,6 @@ a {
 
 
 
-.pword {
-  margin-left: 20px;
-  font-weight: 20px;
-  font-size: 30px;
-  color: rgb(255, 226, 201);
-  margin-bottom: -25px;
-  font-family: "cocogooseFINA";
-}
 
 .comidas {
   display: grid;
@@ -414,7 +408,7 @@ video {
 }
 
 .botaoeventos {
-  font-family: "cocogooseFINA";
+  font-family: "Urbanist";
   width: 150px;
   border-radius: 30px;
   border: #9d2f31;
@@ -578,4 +572,12 @@ a {
 
 .conteudo-footer p {
   font-size: 18px;
+}
+.pword {
+  margin-left: 20px;
+  font-weight: 20px;
+  font-size: 30px;
+  color: rgb(255, 226, 201);
+  margin-bottom: -25px;
+  font-family: "Urbanist";
 }
