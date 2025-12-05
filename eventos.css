@@ -375,7 +375,9 @@ margin-right: 80px;
   margin: 30px auto;
 }
 
-
+.compra1 {
+  text-decoration: none;
+}
 
 .pBrownie, .pCaridosa{
   width: 600px;

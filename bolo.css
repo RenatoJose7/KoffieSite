@@ -1,11 +1,12 @@
 .p1{
-    font-family: "cocogoose";
+    font-family: "Urbanist";
     font-size: 20px;
-    font-weight: 500;
+    font-weight: 700;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
     width: 600px;
     color: #6b2b22;
+
 }
 *{
     margin: 0;
@@ -85,6 +86,7 @@ header {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
+  font-weight: 700;
   width: 70%;
 }
 .nave {
@@ -126,7 +128,7 @@ header {
   font-size: 40px;
   color: #9d2f31;
   margin-bottom: 40px;
-  font-family: "cocogoose";
+  font-family: "Urbanist";
 }
 body {
     display: flex;
@@ -253,7 +255,7 @@ h2 {
 }
 .compra1 {
   color: #fff5e8;
-  font-family: "cocogoose";
+  font-family: "Urbanist";
   width: 150px;
   border-radius: 30px;
   border: #9d2f31;
@@ -306,7 +308,7 @@ h2 {
     transition: transform 0.4s ease;
 }
 .text2 {
-    font-family: "cocogoose";
+    font-family: "Urbanist";
     margin-left: -230px;
     margin-top: -20px;
     margin-right: 950px;
@@ -318,7 +320,7 @@ h2 {
     width: 100px;
     height: 45px;
     border-radius: 30px;
-    font-family: "cocogoose";
+    font-family: "Urbanist";
     border: 0;
     color: rgb(235, 180, 136);
     transition: all 0.8s ease-in;
@@ -331,7 +333,7 @@ h2 {
 .c2 {
     font-size: 55px;
     margin-bottom: 0;
-    font-family: "cocogoose";
+    font-family: "Urbanist";
 }
 .coo2 {
     margin-top: 0;
@@ -417,7 +419,7 @@ h2 {
     transition: transform 0.4s ease;
 }
 .text4 {
-    font-family: "cocogoose";
+    font-family: "Urbanist";
     margin-left: -230px;
     margin-top: -20px;
     margin-right: 950px;
@@ -429,7 +431,7 @@ h2 {
     width: 100px;
     height: 45px;
     border-radius: 30px;
-    font-family: "cocogoose";
+    font-family: "Urbanist";
     border: 0;
     color: rgb(235, 180, 136);
     transition: all 0.8s ease-in;
@@ -442,7 +444,7 @@ h2 {
 .c4 {
     font-size: 55px;
     margin-bottom: 0;
-    font-family: "cocogoose";
+    font-family: "Urbanist";
 }
 .coo4 {
     margin-top: 0;
@@ -530,7 +532,7 @@ h2 {
 }
 .text6 {
   
-    font-family: "cocogoose";
+    font-family: "Urbanist";
     margin-left: -230px;
     margin-top: -20px;
     margin-right: 950px;
@@ -542,7 +544,7 @@ h2 {
     width: 100px;
     height: 45px;
     border-radius: 30px;
-    font-family: "cocogoose";
+    font-family: "Urbanist";
     border: 0;
     color: rgb(235, 180, 136);
     transition: all 0.8s ease-in;
@@ -555,7 +557,7 @@ h2 {
 .c6 {
     font-size: 55px;
     margin-bottom: 0;
-    font-family: "cocogoose";
+    font-family: "Urbanist";
 }
 .coo6 {
     margin-top: 0;

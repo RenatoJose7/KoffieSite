@@ -3,9 +3,9 @@
 .p1{
     font-family: "Urbanist";
     font-size: 20px;
-    font-weight: 500;
+    font-weight: 700;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
     width: 600px;
     color: #6b2b22;
 
@@ -19,7 +19,7 @@
 
 .coo1 {
   color: #6b2b22;
-    font-family: Urbanist;
+    font-family: coolvetica;
 }
 
 @font-face {
@@ -98,6 +98,7 @@ header {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
+  font-weight: 700;
   width: 70%;
 }
 .nave {
@@ -247,7 +248,7 @@ h2 {
   border-width: 50px;
   background-color: #6b2b22;
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 700;
   margin-top: -55px;
   padding: 10px 30px;
   cursor: pointer;
