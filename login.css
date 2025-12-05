@@ -265,12 +265,12 @@ main {
 .entrar {
     width: 100%;
     padding: 14px;
+    margin-left: 290px;
     border: none;
     background: #643328;
     color: #fff;
-    border-radius: 20px;
+    border-radius: 25px;
     align-items: center;
-    margin-left: 280px;
     text-decoration: none;
     font-size: 16px;
     cursor: pointer;

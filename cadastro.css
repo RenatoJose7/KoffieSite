@@ -259,6 +259,7 @@ main {
 .entrar {
     width: 100%;
     padding: 14px;
+    margin-left: 280px;
     border: none;
     background: #643328;
     color: #fff;
